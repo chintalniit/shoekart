@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="login">Login</a>
-<a href="register">Register</a>
+<a href="addproduct">Add Product</a>
+<a href="viewproduct">View Product</a>
 </body>
 </html>

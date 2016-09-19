@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-i m in login.jsp
+Welcome to Login page
 </body>
 </html>
